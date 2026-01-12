@@ -58,6 +58,24 @@ Saya adalah pengembang perangkat lunak yang passionate dalam menciptakan aplikas
 
 ---
 
+## 🖥️ Preview UI Aplikasi Kasir
+
+<div align="center">
+
+| Dashboard Kasir Utama | Manajemen Produk |
+|:---------------------:|:----------------:|
+| ![Dashboard](https://raw.githubusercontent.com/ArsalRR/Point-Of-Sales-App/main/public/photo_app/dasboard_ui.jpeg) | ![Produk](https://raw.githubusercontent.com/ArsalRR/Point-Of-Sales-App/main/public/photo_app/produk.jpeg) |
+| *Tampilan utama kasir dengan keranjang belanja* | *Interface pengelolaan katalog produk* |
+
+| Login UI | Mobile Responsive |
+|:--------:|:-----------------:|
+| ![Login](https://raw.githubusercontent.com/ArsalRR/Point-Of-Sales-App/main/public/photo_app/login_ui.jpeg) | ![Mobile](https://raw.githubusercontent.com/ArsalRR/Point-Of-Sales-App/main/public/photo_app/mobile_ui.jpeg) |
+| *Halaman Login Autentikasi* | *Tampilan optimal untuk mobile* |
+
+</div>
+
+---
+
 ## 📊 Statistik GitHub
 
 <div align="center">
