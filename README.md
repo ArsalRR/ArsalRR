@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Arsal - Pengembang Aplikasi
+# 👋 Halo, Saya Arsal - Software Developer
 
 <div align="center">
   
@@ -75,6 +75,8 @@ Saya adalah pengembang perangkat lunak yang passionate dalam menciptakan aplikas
 </div>
 
 ---
+
+
 ---
 
 ## 🎯 Proyek Unggulan
@@ -88,7 +90,7 @@ Saya adalah pengembang perangkat lunak yang passionate dalam menciptakan aplikas
 ### 📦 Point-Of-Sales-App
 Aplikasi kasir modern dengan antarmuka yang mudah digunakan dan laporan penjualan secara real-time untuk mengelola transaksi bisnis.
 
-**Teknologi:** `JavaScript` `React` `API Pembayaran`
+**Teknologi:** `JavaScript` `React` `API Pembayaran` 'Laravel'
 
 [![Lihat Repo](https://img.shields.io/badge/Lihat_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArsalRR/Point-Of-Sales-App)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -124,7 +126,7 @@ Sistem Informasi Absensi Karyawan yang cepat dan responsif, dibangun dengan Type
 ### 📖 Maqra Quran App
 Aplikasi belajar membaca Al-Quran dengan tampilan yang nyaman dan interface interaktif untuk pengalaman belajar yang menyenangkan.
 
-**Teknologi:** `CSS` `JavaScript` `Desain Responsif`
+**Teknologi:** `CSS` `JavaScript` `Desain Responsif` 'Tallwind CSS' 'Daisy UI'
 
 [![Lihat Repo](https://img.shields.io/badge/Lihat_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArsalRR/Maqra_Quran_app)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -232,21 +234,6 @@ Saya percaya pada:
 </div>
 
 ---
-
-## 🌟 Highlight Keterampilan
-
-<div align="center">
-
-| 💼 Bidang | ⭐ Level | 📋 Detail |
-|-----------|----------|-----------|
-| **Frontend Development** | ⭐⭐⭐⭐⭐ | React, TypeScript, JavaScript, CSS |
-| **Mobile Development** | ⭐⭐⭐⭐ | Flutter, Dart, Cross-platform apps |
-| **Backend Development** | ⭐⭐⭐⭐ | Java, API Integration, Database |
-| **Payment Integration** | ⭐⭐⭐⭐ | Midtrans, Payment Gateway |
-| **UI/UX Design** | ⭐⭐⭐⭐ | Responsive Design, User-centric |
-| **Database Management** | ⭐⭐⭐⭐ | MySQL, Data Structure, DAO Pattern |
-
-</div>
 
 ---
 
