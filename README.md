@@ -58,7 +58,7 @@ Saya adalah pengembang perangkat lunak yang passionate dalam menciptakan aplikas
 
 ---
 
-## 🖥️ Preview UI Aplikasi Kasir
+## 🖥️ Preview UI Aplikasi Kasir Yang Pernah Di buat
 
 <div align="center">
 
@@ -75,23 +75,6 @@ Saya adalah pengembang perangkat lunak yang passionate dalam menciptakan aplikas
 </div>
 
 ---
-
-## 📊 Statistik GitHub
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArsalRR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Statistik GitHub" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArsalRR&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak GitHub" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalRR&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8" alt="Bahasa Pemrograman Terbanyak" />
-  
-</div>
-
 ---
 
 ## 🎯 Proyek Unggulan
